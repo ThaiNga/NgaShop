@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tailieu\\ltweb\\SV21T1080024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\views\\category\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\views\\category\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\views\\supplier\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\views\\supplier\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\views\\order\\editdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\views\\order\\editdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96AA6B-1AD8-4261-94F7-30F893585D59}|SV21T1080024.BusinessLayers\\SV21T1080024.BusinessLayers.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.businesslayers\\orderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D96AA6B-1AD8-4261-94F7-30F893585D59}|SV21T1080024.BusinessLayers\\SV21T1080024.BusinessLayers.csproj|solutionrelative:sv21t1080024.businesslayers\\orderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\views\\product\\attribute.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\views\\product\\attribute.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.web\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E85F0F-B7BA-4520-BCB2-54E31D505615}|SV21T1080024.Web\\SV21T1080024.Web.csproj|solutionrelative:sv21t1080024.web\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C066E4B7-BA2C-4690-86B2-2C08B5279C13}|SV21T1080024.DataLayers\\SV21T1080024.DataLayers.csproj|d:\\tailieu\\ltweb\\sv21t1080024\\sv21t1080024.datalayers\\sv21t1080024.datalayers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C066E4B7-BA2C-4690-86B2-2C08B5279C13}|SV21T1080024.DataLayers\\SV21T1080024.DataLayers.csproj|solutionrelative:sv21t1080024.datalayers\\sv21t1080024.datalayers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "SV21T1080024.Web\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T08:31:00.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Category\\Search.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Views\\Category\\Search.cshtml",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Category\\Search.cshtml",
+              "RelativeToolTip": "SV21T1080024.Web\\Views\\Category\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T08:27:01.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Supplier\\Search.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Views\\Supplier\\Search.cshtml",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Supplier\\Search.cshtml",
+              "RelativeToolTip": "SV21T1080024.Web\\Views\\Supplier\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T08:15:35.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Supplier\\Index.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Views\\Supplier\\Index.cshtml",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Supplier\\Index.cshtml",
+              "RelativeToolTip": "SV21T1080024.Web\\Views\\Supplier\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T07:16:24.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SV21T1080024.Web\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:29:43.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SV21T1080024.Web\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:34:07.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SV21T1080024.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T10:04:48.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Views\\Order\\Index.cshtml",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "SV21T1080024.Web\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T03:17:08.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "SV21T1080024.Web\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T13:46:41.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "SV21T1080024.Web\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T03:07:52.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Views\\Order\\Create.cshtml",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "SV21T1080024.Web\\Views\\Order\\Create.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T14:12:43.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditDetail.cshtml",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Order\\EditDetail.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Views\\Order\\EditDetail.cshtml",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Order\\EditDetail.cshtml",
+              "RelativeToolTip": "SV21T1080024.Web\\Views\\Order\\EditDetail.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T11:02:06.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetailModel.cs",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Models\\OrderDetailModel.cs",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Models\\OrderDetailModel.cs",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Models\\OrderDetailModel.cs",
+              "RelativeToolTip": "SV21T1080024.Web\\Models\\OrderDetailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:44:31.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDataService.cs",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.BusinessLayers\\OrderDataService.cs",
+              "RelativeDocumentMoniker": "SV21T1080024.BusinessLayers\\OrderDataService.cs",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.BusinessLayers\\OrderDataService.cs",
+              "RelativeToolTip": "SV21T1080024.BusinessLayers\\OrderDataService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwDMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:22:08.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "SV21T1080024.Web\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T03:39:33.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Attribute.cshtml",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Product\\Attribute.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Views\\Product\\Attribute.cshtml",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Product\\Attribute.cshtml",
+              "RelativeToolTip": "SV21T1080024.Web\\Views\\Product\\Attribute.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T14:54:36.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "SV21T1080024.Web\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T01:59:27.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SV21T1080024.Web\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.Web\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "SV21T1080024.Web\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T02:31:25.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SV21T1080024.DataLayers.csproj",
+              "DocumentMoniker": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.DataLayers\\SV21T1080024.DataLayers.csproj",
+              "RelativeDocumentMoniker": "SV21T1080024.DataLayers\\SV21T1080024.DataLayers.csproj",
+              "ToolTip": "D:\\tailieu\\ltweb\\SV21T1080024\\SV21T1080024.DataLayers\\SV21T1080024.DataLayers.csproj",
+              "RelativeToolTip": "SV21T1080024.DataLayers\\SV21T1080024.DataLayers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T02:51:03.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\bin\Debug\net8.0\SV21T1080024.BusinessLayers.deps.json
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\bin\Debug\net8.0\SV21T1080024.BusinessLayers.dll
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\bin\Debug\net8.0\SV21T1080024.BusinessLayers.pdb
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\bin\Debug\net8.0\SV21T1080024.DataLayers.dll
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\bin\Debug\net8.0\SV21T1080024.DomainModels.dll
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\bin\Debug\net8.0\SV21T1080024.DataLayers.pdb
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\bin\Debug\net8.0\SV21T1080024.DomainModels.pdb
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\obj\Debug\net8.0\SV21T1080024.BusinessLayers.csproj.AssemblyReference.cache
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\obj\Debug\net8.0\SV21T1080024.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\obj\Debug\net8.0\SV21T1080024.BusinessLayers.AssemblyInfoInputs.cache
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\obj\Debug\net8.0\SV21T1080024.BusinessLayers.AssemblyInfo.cs
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\obj\Debug\net8.0\SV21T1080024.BusinessLayers.csproj.CoreCompileInputs.cache
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\obj\Debug\net8.0\SV21T108.0C0A1811.Up2Date
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\obj\Debug\net8.0\SV21T1080024.BusinessLayers.dll
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\obj\Debug\net8.0\refint\SV21T1080024.BusinessLayers.dll
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\obj\Debug\net8.0\SV21T1080024.BusinessLayers.pdb
+D:\tailieu\ltweb\SV21T1080024\SV21T1080024.BusinessLayers\obj\Debug\net8.0\ref\SV21T1080024.BusinessLayers.dll
